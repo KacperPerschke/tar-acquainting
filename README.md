@@ -3,7 +3,7 @@ Experiment for [security-tranquilizer](https://github.com/KacperPerschke/securit
 
 ## The goal
 
-Learn to use the tar library.
+Learn to use the [tar](https://pkg.go.dev/archive/tar) library.
 
 The following are the three steps for verification.
 
